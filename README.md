@@ -12,3 +12,5 @@ Al finalizar el curso de Diseño UX/UI avanzado podrás:
   onalidad a partir deun concepto de marca.
 - Conocer diversos métodos de validación de prototipos.
 - Adquirir herramientas para profesionalizar tu perfil UX/UI.
+
+[PROYECTO FINAL DEL CURSO](https://drive.google.com/file/d/1iYTd16vFL1k1a8hP1xwtmuBn1nAuMjos/view?usp=sharing)
